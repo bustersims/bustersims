@@ -5,8 +5,3 @@
 - 📫 How to reach me best would be at buster.sims@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Taco cat spelled backwards is taco cat.
-
-<!---
-bustersims/bustersims is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
